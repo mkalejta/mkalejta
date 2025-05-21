@@ -2,10 +2,8 @@
 <h3 align="center">A passionate Computer Science student looking for his first Internship.</h3>
 
 - 🔭 I’m currently working on [Dziennik_Elektroniczny](https://github.com/mkalejta/Dziennik_Elektroniczny)  
-- 🌱 I’m currently learning **Docker, Web Security, AI and Java**  
-- 👨‍💻 All of my projects are available at [https://github.com/mkalejta](https://github.com/mkalejta)  
-- 📫 How to reach me **mikolajkalejta@gmail.com**  
-- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/miko%C5%82aj-kalejta-5462332a3/)
+- 🌱 I’m currently learning **Docker, Web Security, AI and Java** 
+- 📫 How to reach me **mikolajkalejta@gmail.com**
 
 ---
 
