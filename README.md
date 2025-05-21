@@ -37,6 +37,8 @@
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge)
+![EJS](https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge)
 
 #### 🛢️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
