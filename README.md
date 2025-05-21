@@ -39,6 +39,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge)
+![Keycloak](https://img.shields.io/badge/Keycloak-0075A8?logo=keycloak&logoColor=white&style=for-the-badge)
 
 #### 🛢️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
