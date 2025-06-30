@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikołaj Kalejta</h1>
 <h3 align="center">A passionate Computer Science student looking for his first Internship.</h3>
 
-- 🔭 I’m currently working on [Dziennik_Elektroniczny](https://github.com/mkalejta/Dziennik_Elektroniczny)  
-- 🌱 I’m currently learning **Docker, Web Security, AI and Java** 
 - 📫 How to reach me **mikolajkalejta@gmail.com**
 
 ---
@@ -18,8 +16,6 @@
 #### 💻 Programming Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
 #### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
@@ -35,7 +31,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white&style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge)
