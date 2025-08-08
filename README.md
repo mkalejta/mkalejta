@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikołaj Kalejta</h1>
-<h3 align="center">A passionate Computer Science student looking for his first Internship.</h3>
+<h3 align="center">I'm a final year computer science student at the University of Gdańsk. My skill set allows me to describe myself as a Fullstack Developer.</h3>
 
 - 📫 How to reach me **mikolajkalejta@gmail.com**
 
