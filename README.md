@@ -16,22 +16,11 @@
 #### 💻 Programming Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 ![Scala](https://img.shields.io/badge/Scala-DE3423?logo=scala&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-
-
-
-#### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
-![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 #### 🧠 Backend & API  
 ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white&style=for-the-badge)
@@ -43,6 +32,15 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge)
 ![Keycloak](https://img.shields.io/badge/Keycloak-0075A8?logo=keycloak&logoColor=white&style=for-the-badge)
+
+#### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 #### 🛢️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -59,3 +57,5 @@
 
 #### 📊 Data & AI  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white&style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
