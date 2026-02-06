@@ -1,64 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mikołaj Kalejta</h1>
-<h3 align="center">I'm a final year computer science student at the University of Gdańsk. My skill set allows me to describe myself as a Fullstack Developer.</h3>
+# Hi 👋, I'm Mikołaj Kalejta
 
-- 📫 How to reach me **mikolajkalejta@gmail.com**
-
----
-
-### 🧑‍💼 Connect with me:
+Final-year Practical Computer Science student at the University of Gdańsk. I primarily work with **Java** and **Spring Boot** in my everyday tasks, while also building experience with **Python**, **TypeScript** and **Angular**. Currently involved in a students' academic circle project — [L2B2 Platform](https://l2b2.inf.ug.edu.pl/) — where I lead as **Backend Tech Lead** (codebase is private, hosted on GitLab). I use AI tools such as Claude to optimize my work and improve productivity. I am looking for place to grow as a developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/miko%C5%82aj-kalejta-5462332a3/)
 
+📫 How to reach me: **mikolajkalejta@gmail.com**
+
 ---
 
-### 🚀 Languages and Tools:
+### 🚀 Core Technologies
 
-#### 💻 Programming Languages  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![Scala](https://img.shields.io/badge/Scala-DE3423?logo=scala&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-
-#### 🧠 Backend & API  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![Keycloak](https://img.shields.io/badge/Keycloak-0075A8?logo=keycloak&logoColor=white&style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white&style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white&style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge)
-![EJS](https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge)
 
-#### 🌐 Frontend  
+### 🔧 Additional Technologies
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
-
-#### 🛢️ Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=for-the-badge)
-
-#### 🛠️ Tools & DevOps  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?logo=nginx&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?logo=gnu-bash&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
-#### 📊 Data & AI  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white&style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+---
+
+### 📌 Pinned Projects
+
+#### [JobFinderApp](https://github.com/jankotanime/job-finder-app)
+A long-term mobile application aimed at simplifying the search for short-term and freelance jobs through a user-friendly and transparent platform. Co-created the application architecture from concept stage, designed and developed the backend with Spring Boot, and built the database model with scalability in mind. I was fully responsible for the [admin panel](https://github.com/mkalejta/job-finder-app-admin-panel), implemented as a submodule using TypeScript with Angular.
+
+#### [Dziennik Elektroniczny](https://github.com/mkalejta/DziennikElektroniczny)
+A web-based electronic school gradebook built as a monolithic application with separated domain modules (grades, attendance, timetable, messages, etc.). The system uses Docker and Kubernetes for containerized deployment, Keycloak for authentication, and communicates through REST, RabbitMQ and Redis across 11 independently built services.
