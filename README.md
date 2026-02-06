@@ -38,5 +38,5 @@ Final-year Practical Computer Science student at the University of Gdańsk. I pr
 #### [JobFinderApp](https://github.com/jankotanime/job-finder-app)
 A long-term mobile application aimed at simplifying the search for short-term and freelance jobs through a user-friendly and transparent platform. Co-created the application architecture from concept stage, designed and developed the backend with Spring Boot, and built the database model with scalability in mind. I was fully responsible for the [admin panel](https://github.com/mkalejta/job-finder-app-admin-panel), implemented as a submodule using TypeScript with Angular.
 
-#### [Dziennik Elektroniczny](https://github.com/mkalejta/DziennikElektroniczny)
+#### [Dziennik Elektroniczny](https://github.com/mkalejta/Dziennik_Elektroniczny)
 A web-based electronic school gradebook built as a monolithic application with separated domain modules (grades, attendance, timetable, messages, etc.). The system uses Docker and Kubernetes for containerized deployment, Keycloak for authentication, and communicates through REST, RabbitMQ and Redis across 11 independently built services.
