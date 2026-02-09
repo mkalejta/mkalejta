@@ -40,3 +40,6 @@ A long-term mobile application aimed at simplifying the search for short-term an
 
 #### [Dziennik Elektroniczny](https://github.com/mkalejta/Dziennik_Elektroniczny)
 A web-based electronic school gradebook built as a monolithic application with separated domain modules (grades, attendance, timetable, messages, etc.). The system uses Docker and Kubernetes for containerized deployment, Keycloak for authentication, and communicates through REST, RabbitMQ and Redis across 11 independently built services.
+
+#### [ChessGamesAnalysis](https://github.com/mkalejta/ChessGamesAnalysis)
+A machine learning project developed for a Computational Intelligence university course, predicting chess game outcomes (white wins, black wins, draw) from Lichess game data. Implements and compares four models — Neural Network (Keras), Random Forest, XGBoost, and KNN — with GridSearchCV hyperparameter tuning, achieving 86.3% test accuracy with XGBoost. Also includes Apriori-based association rules mining to discover patterns between chess openings and game outcomes.
